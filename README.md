@@ -24,4 +24,5 @@ Below are the insights and recommendations we got based on the data we were prov
 
 
 ## Reference
-•	https://medium.com/@piocalderon/vader-sentiment-analysis-explained f1c4f9101cd9#:~:text=VADER%20sentiment%20analysis%20combines%20a,movie%20reviews%20and%20opinion%20articles.
+[https://medium.com/@piocalderon/vader-sentiment-analysis-explainedf1c4f9101cd9#:~:text=VADER%20sentiment%20analysis%20combines%20a,movie%20reviews%20and%20opinion%20articles
+](https://medium.com/@piocalderon/vader-sentiment-analysis-explained-f1c4f9101cd9#:~:text=VADER%20sentiment%20analysis%20combines%20a,movie%20reviews%20and%20opinion%20articles.)
