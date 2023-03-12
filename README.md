@@ -14,8 +14,6 @@ Given the fact that optional text boxes appeared in the survey only when someone
 Since we didn’t have any personally identifiable information regarding the survey and the fact that this survey would help improve the experience of users, there were no ethical concerns. 
 
 ## Conclusion
-
-Conclusion
 Below are the insights and recommendations we got based on the data we were provided for this survey:
 1)	Blackboard seems to be the tool that most users are unsatisfied across the feedback such as IT challenges, Teaching Tools. They would prefer to use Canva, are not happy with the UI of the tool and find it hard to grade on the tool. 
 2)	Another tool that users are highly unhappy with was MySlice. They are unhappy with the UI, the fact that they need to re-navigate to a page again and again, have to see the student page first and then navigate to the faculty page each time and would prefer to be able to bookmark or customize the UI to better suit their needs and are highly unhappy with the stale login issues faced. Unhappiness for this tool was again seen across multiple tools feedback.
